@@ -6,7 +6,7 @@ img {border: 2px solid black; padding: 20px;}
 .links {color: black;}
 .contact img {width:50px; margin: 5px; border-radius: 50%; border: none;}
 .giraffe img {width:500px;}
-header {background: url(images/newyork.jpeg); padding-top: 500px; background-repeat: no-repeat;}
+header {background: url(images/newyork.jpeg); padding-top: 600px; background-repeat: no-repeat;}
 header {width: 100%; background-size: cover;}
 .contact img:hover {opacity: 0.5;}
 ul.websites {padding: 0; list-style: none; display: inline-block;}
