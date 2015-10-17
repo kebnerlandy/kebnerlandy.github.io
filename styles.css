@@ -1,0 +1,17 @@
+body {font-family: sans-serif;; color: black; background: #20B2AA; margin:0px;}
+header {text-align: center; color: white; font-size: 80; font-weight: 20px}
+h2 {color: white;}
+img {border: 2px solid black; padding: 20px;}
+#about {color: black;}
+.links {color: black;}
+.contact img {width:50px; margin: 5px; border-radius: 50%; border: none;}
+.giraffe img {width:500px;}
+header {background: url(images/newyork.jpeg); padding-top: 500px; background-repeat: no-repeat;}
+header {width: 100%; background-size: cover;}
+.contact img:hover {opacity: 0.5;}
+ul.websites {padding: 0; list-style: none; display: inline-block;}
+.websites a {background: #38A88F; padding: 10px 20px; color: #fff; text-decoration: none; border-radius: 5px; font-size: 24px; display: block;}
+.websites a:hover {background:#666;}
+p, ul, ol {line-height: 1.5;}
+.hobbies a {background: #38A88F; padding: 10px 20px; color: #fff; text-decoration: none; border-radius: 5px; font-size: 24px; display: block;}
+ol.hobbies {padding: 0; list-style: none; display: inline-block;}
