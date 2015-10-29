@@ -5,6 +5,7 @@ img {border: 2px solid black; padding: 20px;}
 #about {color: black;}
 .links {color: black;}
 .contact img {width:50px; margin: 5px; border-radius: 50%; border: none;}
+.giraffe {text-align: center;}
 .giraffe img {width:500px;}
 header {background: url(images/newyork.jpeg); padding-top: 600px; background-repeat: no-repeat;}
 header {width: 100%; background-size: cover;}
@@ -14,5 +15,10 @@ ul.websites {padding: 0; list-style: none; display: inline-block;}
 .websites a:hover {background:#666;}
 p, ul, ol {line-height: 1.5;}
 .hobbies a {background: #38A88F; padding: 10px 20px; color: #fff; text-decoration: none; border-radius: 5px; font-size: 24px; display: block;}
-ol.hobbies {padding: 0; list-style: none; display: inline-block;}
+ol.hobbies {padding:20; list-style: none; display: inline-block;}
 .hobbies a:hover {background:#666;}
+#about {text-align: center;}
+.contact {text-align: center;}
+.hobbies {float: top; right;}
+#about h2 {padding-top: 10px;}
+.hobbies, .websites {padding-bottom: 100px;}
